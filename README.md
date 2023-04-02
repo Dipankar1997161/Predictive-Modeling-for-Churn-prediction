@@ -3,7 +3,7 @@
 - Full EDA on Local Telecom Dataset
 
 <p align="center">
-  <img src="https://www.questback.com/wp-content/uploads/2022/07/Customer-churn-rate-1024x683.jpg" width="600" height="400">
+  <img src="https://user-images.githubusercontent.com/85514219/229324776-bc6f484e-aa5d-4e65-84b1-ec7ad24fb41e.png", width="600" height="400">
 </p>
 
 ## Introduction:
@@ -12,11 +12,23 @@ Customer churn (or customer attrition) refers to the loss of customers or subscr
 ### Example
 If Company ADG had 500 customers at the beginning of the month and only 450 customers at the end of the month, its customer churn rate would be 10%.
 
+## Exploratory Data Analysis
+
+Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
+### Why is EDA so important?
+ - Identifying data quality issues: EDA helps us to identify missing or incorrect values, outliers, and inconsistencies in the data, which can affect the accuracy of our models.
+
+- Feature selection: EDA helps us to identify the most important features in our data that are relevant to our problem. This can save us time and resources by focusing on the most important features instead of analyzing all features.
+
+- Understanding the data: EDA helps us to understand the distribution and characteristics of the data. This is important for selecting appropriate statistical models and machine learning algorithms.
+
+- Hypothesis testing: EDA helps us to test hypotheses about the relationships between variables in our data. This can help us to identify causal relationships and make predictions about future trends.
+
 ## Overview:
 In this repo, there are 2 sections.
 
 - A churn prediction on a Telecom Dataset from Kaggle **[Web-App is in development]**
--  A Full EDA on a local telecom dataset **[You can implement the model if you want]**
+- A Full EDA on a local telecom dataset **[You can implement the model if you want]**
 
 ## Results:
 
