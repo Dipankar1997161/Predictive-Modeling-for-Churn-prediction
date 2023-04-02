@@ -6,12 +6,6 @@
   <img src="https://user-images.githubusercontent.com/85514219/229324776-bc6f484e-aa5d-4e65-84b1-ec7ad24fb41e.png", width="600" height="400">
 </p>
 
-## Introduction:
-
-Customer churn (or customer attrition) refers to the loss of customers or subscribers for any reason at all. Businesses measure and track churn as a percentage of lost customers compared to total number of customers over a given time period
-### Example
-If Company ADG had 500 customers at the beginning of the month and only 450 customers at the end of the month, its customer churn rate would be 10%.
-
 ## Exploratory Data Analysis
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
@@ -25,7 +19,12 @@ Exploratory data analysis (EDA) is used by data scientists to analyze and invest
 - Hypothesis testing: EDA helps us to test hypotheses about the relationships between variables in our data. This can help us to identify causal relationships and make predictions about future trends.
 
 ## Overview:
+
+Customer churn (or customer attrition) refers to the loss of customers or subscribers for any reason at all. Businesses measure and track churn as a percentage of lost customers compared to total number of customers over a given time period. For example - If Company ADG had 500 customers at the beginning of the month and only 450 customers at the end of the month, its customer churn rate would be 10%.
+
 In this repo, there are 2 sections.
+
+My main aim was to perform EDA
 
 - A churn prediction on a Telecom Dataset from Kaggle **[Web-App is in development]**
 - A Full EDA on a local telecom dataset **[You can implement the model if you want]**
