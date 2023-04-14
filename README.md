@@ -1,4 +1,4 @@
-# Exploratory-Analysis-of-Churn-Data 
+# Predictive Modeling for Churn prediction
 - Churn Prediction on Kaggle telecom dataset
 - Full EDA on Local Telecom Dataset
 
