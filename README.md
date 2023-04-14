@@ -1,6 +1,7 @@
 # Predictive Modeling for Churn prediction
 - Churn Prediction on Kaggle telecom dataset
 - Full EDA on Local Telecom Dataset
+- Churn Prediction App using Streamlit and Docker(docker deployment in progress) 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85514219/229324776-bc6f484e-aa5d-4e65-84b1-ec7ad24fb41e.png", width="600" height="400">
